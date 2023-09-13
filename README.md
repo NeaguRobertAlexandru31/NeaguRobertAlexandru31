@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeaguRobertAlexandru31
 - 👀 I’m interested in UX/UI
-- 🌱 I’m currently learning HTML, CSS, JS, TS & PHP
+- 🌱 I’m currently learning HTML, CSS, JS, TS, PHP, Angular & React
 - 📫 How to reach me https://linktr.ee/neagurobertalexandru
 
 <!---
